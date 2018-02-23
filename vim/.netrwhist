@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dustin/Apps/wildobservations/generated/js'
+let g:netrw_dirhist_2='/Users/dustin/Apps/wildobservations/app/scss/wildobservations/scss'
+let g:netrw_dirhist_3='/Users/dustin/Apps/none-to-done/app/coffee'
+let g:netrw_dirhist_4='/Users/dustin/Apps/mountain-front/app/scss/blog'
+let g:netrw_dirhist_5='/Users/dustin/Apps/test_project/requirements'
+let g:netrw_dirhist_6='/Users/dustin/Apps/dustin_johnson/requirements'
